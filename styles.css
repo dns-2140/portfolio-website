@@ -328,6 +328,9 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+  .nav-container {
+    padding: 2rem 6rem;
+  }
   #welcome-section {
     margin-top: 8rem;
 
